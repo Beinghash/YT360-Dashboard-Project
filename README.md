@@ -1,4 +1,4 @@
-📊 YT360 – Unlocking YouTube Channel Performance Secrets
+# 📊 YT360 – Unlocking YouTube Channel Performance Secrets
 
 A Fullstack **project**, part of our ongoing **Data Analysis Series**, where we go beyond basic analytics to explore real-world business impact using Python and Tableau.  
 In this case, we dive deep into **YouTube video performance** and uncover what truly drives estimated revenue, views, and engagement.
