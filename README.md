@@ -8,16 +8,15 @@ In this case, we dive deep into **YouTube video performance** and uncover what t
 ## 📁 Project Structure
 
 YT360-YouTube-Channel-Analysis/
-│
 ├── Cleaned Datasets/
-│ ├── YT360_Feature_Importance.csv
-│ └── YT360_Final_Dashboard_Data.csv
+│   ├── YT360_Feature_Importance.csv
+│   └── YT360_Final_Dashboard_Data.csv
 │
-├── Dashboard.png # Final Tableau dashboard snapshot
+├── Dashboard.png
 ├── README.md
-├── Unlocking_YouTube_Channel_Performance_Secrets.ipynb # Full Python analysis
-├── YT360_YouTube_Performance_Dashboard.twbx # Tableau workbook
-└── youtube_channel_real_performance_analytics.csv # Raw dataset
+├── Unlocking_YouTube_Channel_Performance_Secrets.ipynb
+├── YT360_YouTube_Performance_Dashboard.twbx
+└── youtube_channel_real_performance_analytics.csv
 
 
 ---
@@ -141,5 +140,4 @@ Made by Hashir khan
 Feel free to ⭐ the repo if you found it helpful!
 
 
----
 
