@@ -5,17 +5,17 @@ In this case, we dive deep into **YouTube video performance** and uncover what t
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
- `Cleaned Datasets`
-   - `YT360_Feature_Importance.csv`
-   - `YT360_Final_Dashboard_Data.csv`
-     
- `Dashboard.png`
- `README.md`
- `Unlocking_YouTube_Channel_Performance_Secrets.ipynb`
- `YT360_YouTube_Performance_Dashboard.twbx`
- `youtube_channel_real_performance_analytics.csv`
+- **Cleaned Datasets/**
+  - `YT360_Feature_Importance.csv` – Feature importance extracted from ML model  
+  - `YT360_Final_Dashboard_Data.csv` – Cleaned dataset for dashboard  
+- `Dashboard.png` – Snapshot of the final Tableau dashboard  
+- `README.md` – Project documentation  
+- `Unlocking_YouTube_Channel_Performance_Secrets.ipynb` – Complete Python notebook  
+- `YT360_YouTube_Performance_Dashboard.twbx` – Tableau packaged workbook  
+- `youtube_channel_real_performance_analytics.csv` – Raw YouTube dataset  
+
 
 
 ---
