@@ -7,16 +7,14 @@ In this case, we dive deep into **YouTube video performance** and uncover what t
 
 ## 📁 Project Structure
 
-YT360-YouTube-Channel-Analysis/
-├── Cleaned Datasets/
-│   ├── YT360_Feature_Importance.csv
-│   └── YT360_Final_Dashboard_Data.csv
-│
-├── Dashboard.png
-├── README.md
-├── Unlocking_YouTube_Channel_Performance_Secrets.ipynb
-├── YT360_YouTube_Performance_Dashboard.twbx
-└── youtube_channel_real_performance_analytics.csv
+ `Cleaned Datasets`
+   - `YT360_Feature_Importance.csv`
+   - `YT360_Final_Dashboard_Data.csv`
+ `Dashboard.png`
+ `README.md`
+ `Unlocking_YouTube_Channel_Performance_Secrets.ipynb`
+ `YT360_YouTube_Performance_Dashboard.twbx`
+ `youtube_channel_real_performance_analytics.csv`
 
 
 ---
